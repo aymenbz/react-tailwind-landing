@@ -16,8 +16,8 @@
     "build": "npm run build:css && react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "build:css": "postcss src/assets/tailwind.css -o src/assets/main.css",
-    "watch:css": "postcss src/assets/tailwind.css -o src/assets/main.css",
+    "build:css": "postcss src/assets/tailwind.src.css -o src/assets/tailwind.css",
+    "watch:css": "postcss src/assets/tailwind.src.css -o src/assets/tailwind.css",
     "predeploy": "gh-pages -d build",
     "deploy": "gh-pages -b gh-pages -d build"
   },
@@ -38,6 +38,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^9.7.5",
+    "node-sass": "^4.13.1",
     "postcss-cli": "^7.1.0",
     "tailwindcss": "^1.2.0"
   }

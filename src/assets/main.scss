@@ -1,0 +1,54 @@
+body {
+  background: #ffffff;
+  font-family: "Inter", Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+// TODO: Create custom utilities
+
+.hero {
+  margin-top: 98px;
+  @media (max-width: 576px) {
+    margin-top: 45px;
+  }
+}
+
+.services {
+  margin-top: 128px;
+  &__box {
+    @media (max-width: 1024px) {
+      margin-bottom: 58px;
+    }
+    &:nth-of-type(3) {
+      margin-bottom: 0;
+    }
+    img {
+      background: url("../assets/images/icons/icon-bg.svg") no-repeat;
+      background-position: 50% 50%;
+    }
+  }
+}
+
+.divider {
+  margin-top: 88px;
+  margin-bottom: 60px;
+  border-color: #f7fafc;
+  border-top-width: 2px;
+  @media (max-width: 1024px) {
+    margin-top: 30px;
+  }
+}
+
+.money-transfer {
+  background: #f7fafc;
+  margin-top: 70px;
+  h2 {
+    padding-top: 107px;
+  }
+}
+
+.main-icon {
+  background: url("../assets/images/icons/icon-bg.svg") no-repeat;
+  background-position: 50% 50%;
+}
