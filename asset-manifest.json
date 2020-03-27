@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/react-tailwind-landing/static/css/main.68b93dda.chunk.css",
+    "main.js": "/react-tailwind-landing/static/js/main.60ca941e.chunk.js",
+    "main.js.map": "/react-tailwind-landing/static/js/main.60ca941e.chunk.js.map",
+    "runtime-main.js": "/react-tailwind-landing/static/js/runtime-main.0caba225.js",
+    "runtime-main.js.map": "/react-tailwind-landing/static/js/runtime-main.0caba225.js.map",
+    "static/js/2.0385f266.chunk.js": "/react-tailwind-landing/static/js/2.0385f266.chunk.js",
+    "static/js/2.0385f266.chunk.js.map": "/react-tailwind-landing/static/js/2.0385f266.chunk.js.map",
+    "index.html": "/react-tailwind-landing/index.html",
+    "precache-manifest.1989a49d9fc96ebfad392d38c9339b4d.js": "/react-tailwind-landing/precache-manifest.1989a49d9fc96ebfad392d38c9339b4d.js",
+    "service-worker.js": "/react-tailwind-landing/service-worker.js",
+    "static/css/main.68b93dda.chunk.css.map": "/react-tailwind-landing/static/css/main.68b93dda.chunk.css.map",
+    "static/js/2.0385f266.chunk.js.LICENSE.txt": "/react-tailwind-landing/static/js/2.0385f266.chunk.js.LICENSE.txt",
+    "static/media/badge.svg": "/react-tailwind-landing/static/media/badge.0711236e.svg",
+    "static/media/bg-head.png": "/react-tailwind-landing/static/media/bg-head.9aafb857.png",
+    "static/media/business.svg": "/react-tailwind-landing/static/media/business.5af5e8d5.svg",
+    "static/media/camera.svg": "/react-tailwind-landing/static/media/camera.074e4e73.svg",
+    "static/media/hero-video.png": "/react-tailwind-landing/static/media/hero-video.763fcb53.png",
+    "static/media/main.scss": "/react-tailwind-landing/static/media/icon-bg.00a900c7.svg",
+    "static/media/logo.svg": "/react-tailwind-landing/static/media/logo.7423337b.svg",
+    "static/media/payment-card.svg": "/react-tailwind-landing/static/media/payment-card.5a7e3d30.svg",
+    "static/media/reload.svg": "/react-tailwind-landing/static/media/reload.2de75042.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0caba225.js",
+    "static/js/2.0385f266.chunk.js",
+    "static/css/main.68b93dda.chunk.css",
+    "static/js/main.60ca941e.chunk.js"
+  ]
+}
