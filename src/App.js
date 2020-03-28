@@ -8,6 +8,12 @@ import paymentCard from "./assets/images/icons/payment-card.svg";
 import reload from "./assets/images/icons/reload.svg";
 import badge from "./assets/images/icons/badge.svg";
 
+//
+
+import level from "./assets/images/level.png";
+import tuple from "./assets/images/tuple.png";
+import workcation from "./assets/images/workcation.png";
+
 function App() {
   return (
     <div>
@@ -204,19 +210,19 @@ function App() {
         <div className="container mx-auto">
           <div className="flex flex-col sm:flex-row lg:flex-row flex-wrap items-center justify-between">
             <div className="w-none lg:w-1/5 px-2 mb-10 sm:mb-6">
-              <img src="images/workcation.png" alt="" />
+              <img src={workcation} alt="" />
             </div>
             <div className="w-none lg:w-1/5 px-2 mb-10 sm:mb-6">
-              <img src="images/level.png" alt="" />
+              <img src={level} alt="" />
             </div>
             <div className="w-none lg:w-1/5 px-2 mb-10 sm:mb-6">
-              <img src="images/tuple.png" alt="" />
+              <img src={tuple} alt="" />
             </div>
             <div className="w-none lg:w-1/5 px-2 mb-10 sm:mb-6">
-              <img src="images/workcation.png" alt="" />
+              <img src={workcation} alt="" />
             </div>
             <div className="w-none lg:w-1/5 px-2 mb-10 sm:mb-6">
-              <img src="images/level.png" alt="" />
+              <img src={level} alt="" />
             </div>
           </div>
         </div>
