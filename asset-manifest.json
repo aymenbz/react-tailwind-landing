@@ -1,18 +1,19 @@
 {
   "files": {
     "main.css": "/react-tailwind-landing/static/css/main.a7ea6923.chunk.css",
-    "main.js": "/react-tailwind-landing/static/js/main.94846bae.chunk.js",
-    "main.js.map": "/react-tailwind-landing/static/js/main.94846bae.chunk.js.map",
+    "main.js": "/react-tailwind-landing/static/js/main.a53a5426.chunk.js",
+    "main.js.map": "/react-tailwind-landing/static/js/main.a53a5426.chunk.js.map",
     "runtime-main.js": "/react-tailwind-landing/static/js/runtime-main.0caba225.js",
     "runtime-main.js.map": "/react-tailwind-landing/static/js/runtime-main.0caba225.js.map",
-    "static/js/2.379c020d.chunk.js": "/react-tailwind-landing/static/js/2.379c020d.chunk.js",
-    "static/js/2.379c020d.chunk.js.map": "/react-tailwind-landing/static/js/2.379c020d.chunk.js.map",
+    "static/js/2.b2aa6d10.chunk.js": "/react-tailwind-landing/static/js/2.b2aa6d10.chunk.js",
+    "static/js/2.b2aa6d10.chunk.js.map": "/react-tailwind-landing/static/js/2.b2aa6d10.chunk.js.map",
     "index.html": "/react-tailwind-landing/index.html",
-    "precache-manifest.6fdfd5d1719d2e839c543cf8e770f16f.js": "/react-tailwind-landing/precache-manifest.6fdfd5d1719d2e839c543cf8e770f16f.js",
+    "precache-manifest.c4bdae09b6676f8ed227306a8115a306.js": "/react-tailwind-landing/precache-manifest.c4bdae09b6676f8ed227306a8115a306.js",
     "service-worker.js": "/react-tailwind-landing/service-worker.js",
     "static/css/main.a7ea6923.chunk.css.map": "/react-tailwind-landing/static/css/main.a7ea6923.chunk.css.map",
-    "static/js/2.379c020d.chunk.js.LICENSE.txt": "/react-tailwind-landing/static/js/2.379c020d.chunk.js.LICENSE.txt",
+    "static/js/2.b2aa6d10.chunk.js.LICENSE.txt": "/react-tailwind-landing/static/js/2.b2aa6d10.chunk.js.LICENSE.txt",
     "static/media/badge.svg": "/react-tailwind-landing/static/media/badge.0711236e.svg",
+    "static/media/bg-head.png": "/react-tailwind-landing/static/media/bg-head.9aafb857.png",
     "static/media/business.svg": "/react-tailwind-landing/static/media/business.5af5e8d5.svg",
     "static/media/camera.svg": "/react-tailwind-landing/static/media/camera.074e4e73.svg",
     "static/media/hero-video.png": "/react-tailwind-landing/static/media/hero-video.763fcb53.png",
@@ -23,8 +24,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0caba225.js",
-    "static/js/2.379c020d.chunk.js",
+    "static/js/2.b2aa6d10.chunk.js",
     "static/css/main.a7ea6923.chunk.css",
-    "static/js/main.94846bae.chunk.js"
+    "static/js/main.a53a5426.chunk.js"
   ]
 }
