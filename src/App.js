@@ -1,6 +1,7 @@
 import React from "react";
 import "./App.css";
 import Logo from "./assets/images/logo.svg";
+import bgHead from "./assets/images/bg-head.png";
 import heroVideo from "./assets/images/hero-video.png";
 import camera from "./assets/images/icons/camera.svg";
 import business from "./assets/images/icons/business.svg";
@@ -94,11 +95,7 @@ function App() {
         </nav>
       </div>
       <section className="hero">
-        <img
-          src="images/bg-head.png"
-          className="absolute top-0 right-0 -z-1"
-          alt=""
-        />
+        <img src={bgHead} className="absolute top-0 right-0 -z-1" alt="" />
         <div className="container mx-auto">
           <div className="flex flex-row flex-wrap px-6">
             <div className="hero-content w-full lg:w-1/2">
